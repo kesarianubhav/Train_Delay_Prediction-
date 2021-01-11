@@ -1,9 +1,8 @@
 # Train_Delay_Prediction-
-A deep learning based train-delay prediction system for assignment - Anubhav Kesari
+- A deep learning based Spatio-temporal train-delay prediction system by Anubhav Kesari
 
+- The notebook has been developed using the Kaggle environment
+- Kaggle link for the work notebook : https://www.kaggle.com/kesarianubhav/ixigo-assignment-anubhav-kesari
 
-This notebook has been developed on kaggle platform, so basic requirements of the kaggle environment is there.
-Specifically the notebook uses - keras==2.4.2
+- The requirements are there in requirements.txt
 
-
-This model uses LSTM based network for predicting time delays.
